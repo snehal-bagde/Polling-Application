@@ -28,7 +28,7 @@ Steps to Setup the Spring Boot Back end app (polls)
 
       The spring boot app uses role based authorization powered by spring security. To add the default roles in the database use below queries, 
       INSERT INTO `roles` (`id`, `name`) VALUES (1, 'ROLE_USER'); 
-      INSERT INTO `roles` (`id`, `name`) VALUES (1, 'ROLE_ADMIN'); 
+      INSERT INTO `roles` (`id`, `name`) VALUES (2, 'ROLE_ADMIN'); 
 
       Any new user who signs up to the app is assigned the ROLE_USER by default. 
 
