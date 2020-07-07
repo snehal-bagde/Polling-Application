@@ -1,4 +1,11 @@
 # Polling-Application
+      The aim of our project is to create a polls like social media application Twitter,
+      YouTube. Where the User can create an account can make a public poll and also
+      able to participate (Vote) any public poll.
+      This application is build by using Spring Boot, ReactJs where we used Spring
+      Security along with JWT Authentication and MySQL database for storage
+
+
 
 Steps to Setup the Spring Boot Back end app (polls) 
 
